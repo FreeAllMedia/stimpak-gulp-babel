@@ -1,0 +1,21 @@
+{
+  "name": "stimpak-gulp-babel",
+  "version": "0.0.0",
+  "description": "Create dynamically loaded gulp tasks that automatically load plugins.",
+  "main": "lib/generator.js",
+  "keywords": [
+    "stimpak"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT",
+  "author": "dcrockwell",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeAllMedia/stimpak-gulp-babel"
+  },
+  "bugs": {
+    "url": "https://github.com/FreeAllMedia/stimpak-gulp-babel/issues"
+  },
+  "homepage": "https://github.com/FreeAllMedia/stimpak-gulp-babel#readme"
+}
