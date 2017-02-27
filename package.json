@@ -1,6 +1,6 @@
 {
   "name": "stimpak-gulp-babel",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create dynamically loaded gulp tasks that automatically load plugins.",
   "main": "lib/generator.js",
   "keywords": [
